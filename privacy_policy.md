@@ -1,6 +1,6 @@
-Welcome to the BlockFrameNFT app for Android!
+Welcome to the BlockFrameNFT App
 
-This is an open source Android app. The app is also available on Google Play. 
+This is an open source Android & iOS app. The app is also available on Google Play and Apple App store. 
 I have not programmed this app to collect any personally identifiable information. 
 All data (app preferences (like theme, etc.) and alarms) created by the you is 
 stored on your device only, and can be simply erased by clearing the app's data or 
